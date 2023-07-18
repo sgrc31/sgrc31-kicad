@@ -1,0 +1,1 @@
+# sgrc31-kicad
